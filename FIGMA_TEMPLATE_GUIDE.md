@@ -78,25 +78,27 @@ This guide will help you create the beer card templates in Figma for the zb-beer
 
    Starting from top-left with 10px margin:
 
+   **Note:** Text fields contain only values without labels. Labels will be added separately in the design.
+
    **Country:**
 
    - Press `T` for text tool
    - Name: `country`
-   - Text: "Country: Czech Republic"
+   - Text: "Czech Republic"
    - Font: Regular, 10-12pt
    - Position: X: 10px, Y: 10px
 
    **Style:**
 
    - Name: `style`
-   - Text: "Style: IPA"
+   - Text: "IPA"
    - Font: Regular, 10-12pt
    - Position: X: 10px, Y: 30px
 
    **ABV:**
 
    - Name: `abv`
-   - Text: "ABV: 6.5%"
+   - Text: "6.5%"
    - Font: Regular, 10-12pt
    - Position: X: 10px, Y: 50px
 
@@ -105,21 +107,21 @@ This guide will help you create the beer card templates in Figma for the zb-beer
    **EBC:**
 
    - Name: `ebc`
-   - Text: "EBC: 12"
+   - Text: "12"
    - Font: Regular, 10-12pt
    - Position: X: 135px, Y: 10px
 
    **IBU:**
 
    - Name: `ibu`
-   - Text: "IBU: 45"
+   - Text: "45"
    - Font: Regular, 10-12pt
    - Position: X: 135px, Y: 30px
 
    **Brewery:**
 
    - Name: `brewery`
-   - Text: "Brewery: Example Brewery"
+   - Text: "Example Brewery"
    - Font: Regular, 10-12pt
    - Position: X: 10px, Y: 70px
 

@@ -111,13 +111,14 @@ The template should contain:
 
 - [ ] Frame name: `BeerCard_Back_Template`
 - [ ] Rectangle for background (named `bg_back`)
-- [ ] Text layer for country (named `country`)
-- [ ] Text layer for style (named `style`)
-- [ ] Text layer for ABV (named `abv`)
-- [ ] Text layer for EBC (named `ebc`)
-- [ ] Text layer for IBU (named `ibu`)
-- [ ] Text layer for brewery (named `brewery`)
-- [ ] Text box for interesting facts (named `facts`)
+- [ ] Text layer for country (named `country`) - value only, no label
+- [ ] Text layer for style (named `style`) - value only, no label
+- [ ] Text layer for ABV (named `abv`) - value only, no label
+- [ ] Text layer for EBC (named `ebc`) - value only, no label
+- [ ] Text layer for IBU (named `ibu`) - value only, no label
+- [ ] Text layer for brewery (named `brewery`) - value only, no label
+- [ ] Text box for interesting facts (named `facts`) - value only, no label
+- [ ] Note: Labels (e.g., "Country:", "Style:", etc.) will be added separately as static text in the design
 
 **Layout:**
 
